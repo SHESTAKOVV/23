@@ -1,0 +1,5 @@
+C:\Users\gr622_sheeal\RiderProjects\Prac_23\Zada4nick\obj\Debug\net8.0\Zada4nick.csproj.AssemblyReference.cache
+C:\Users\gr622_sheeal\RiderProjects\Prac_23\Zada4nick\obj\Debug\net8.0\Zada4nick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr622_sheeal\RiderProjects\Prac_23\Zada4nick\obj\Debug\net8.0\Zada4nick.AssemblyInfoInputs.cache
+C:\Users\gr622_sheeal\RiderProjects\Prac_23\Zada4nick\obj\Debug\net8.0\Zada4nick.AssemblyInfo.cs
+C:\Users\gr622_sheeal\RiderProjects\Prac_23\Zada4nick\obj\Debug\net8.0\Zada4nick.csproj.CoreCompileInputs.cache

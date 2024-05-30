@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IqZwd8qrnro926OYkMPhDy35yby5+SNvUI4M8RFRzWEueWf2YPov1UdzmjpP5xinqxQHDCnLB5dFQLPxxy2lVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr622_sheeal\\RiderProjects\\Prac_23\\Zada4nick\\Zada4nick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr622_sheeal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gr622_sheeal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gr622_sheeal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gr622_sheeal\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
